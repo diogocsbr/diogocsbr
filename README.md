@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### My Contributions :zap:
+<a href="https://github.com/diogocsbr/github-readme-stats%22%3E
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&count_private=true&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/diogocsbr/github-readme-stats%22%3E
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=onedark" />
+</a>
+
 <!--
 **diogocsbr/diogocsbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
