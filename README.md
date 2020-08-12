@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### My Contributions :zap:
-<a href="https://github.com/diogocsbr/github-readme-stats%22%3E
+<a href="https://github.com/diogocsbr/github-readme-stats"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&count_private=true&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github.com/diogocsbr/github-readme-stats%22%3E
+<a href="https://github.com/diogocsbr/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=onedark" />
 </a>
 
