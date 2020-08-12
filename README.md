@@ -2,10 +2,10 @@
 
 #### My Contributions :zap:
 <a href="https://github.com/diogocsbr/github-readme-stats"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/diogocsbr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=dracula" />
 </a>
 
 <!--
@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
 -->
