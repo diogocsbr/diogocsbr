@@ -5,10 +5,10 @@ Find me on:
 
 #### My Contributions :zap:
 <a href="https://github.com/diogocsbr/github-readme-stats"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocsbr&show_icons=true&theme=dracula)" />
 </a>
 <a href="https://github.com/diogocsbr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsbr&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&show_icons=true&theme=dracula" />
 </a>
 
 
