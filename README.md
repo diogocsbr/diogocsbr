@@ -7,8 +7,9 @@ Find me on:
 <a href="https://github.com/diogocsbr/github-readme-stats"> 
   <img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocsbr&show_icons=true&theme=dracula)" />
 </a>
+
 <a href="https://github.com/diogocsbr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=diogocsbr&show_icons=true&theme=dracula" />
+  <img align="left" src="(https://github-readme-stats.vercel.app/api?username=diogocsbr&show_icons=true&theme=dracula)" />
 </a>
 
 
